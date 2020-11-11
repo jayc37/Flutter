@@ -53,5 +53,5 @@ DEMO
 
 
 # Màn hình web được nhúng vào ứng dụng.
-![Chuyển hướng đến web nhúng](https://drive.google.com/uc?export=view&id=1H2bNI0vnen1OMGakM)
+![Chuyển hướng đến web nhúng](https://drive.google.com/uc?export=view&id=1H2bNI0vnen1OMGakM-EXNb7oijPN2TKn)
 
