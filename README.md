@@ -41,4 +41,8 @@ FLUTTER: 2.8GB trống.
 ------------------------------------------
 
 DEMO
+![màn hình khoá](https://drive.google.com/file/d/1cZU2HWMae6_4R_nBeWaFr24KtCBudhc8/view?usp=sharing)
+![màn hình quản lý thiết bị](https://drive.google.com/file/d/1LPSIWpJZnt24MobfxIhgsnPnMGjJ99HD/view?usp=sharing)
+![Rich alert](https://drive.google.com/file/d/1GKGQnfmTSVMQINLq4u7_0NKmkCTex85m/view?usp=sharing)
+![Chuyển hướng đến web nhúng](https://drive.google.com/file/d/1H2bNI0vnen1OMGakM-EXNb7oijPN2TKn/view?usp=sharing)
 
