@@ -1,0 +1,12 @@
+flask
+Flask
+flask_restful
+flask-cors
+dnspython
+gunicorn
+python-dotenv
+requests
+firebase-admin
+wfastcgi
+pymongo
+flask_jwt_extended
