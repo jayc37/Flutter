@@ -1,4 +1,4 @@
-#MOBILE NOTIFICATION
+# MOBILE NOTIFICATION
 **TỔNG QUAN** 
 - Ứng dụng được xây dựng với mục khảo sát khách hàng về chất lượng dịch vụ tại các cửa hàng. Khi có một khách hàng sử dụng dịch vụ của cửa hàng, nhân viên thu ngân sẽ tạo phiếu khảo sát, Khi vừa tạo phiếu khảo sát, màn hình Ipad sẽ chuyển hướng đến trang có chứa phiếu khảo sát. 
 **CHI TIẾT:**
