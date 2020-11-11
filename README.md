@@ -1,6 +1,6 @@
 # MOBILE NOTIFICATION
 **TỔNG QUAN** 
-- Ứng dụng được xây dựng với mục khảo sát khách hàng về chất lượng dịch vụ tại các cửa hàng. Khi có một khách hàng sử dụng dịch vụ của cửa hàng, nhân viên thu ngân sẽ tạo phiếu khảo sát, Khi vừa tạo phiếu khảo sát, màn hình Ipad sẽ chuyển hướng đến trang có chứa phiếu khảo sát.
+- Ứng dụng được xây dựng với mục đích giúp *khảo sát khách hàng về chất lượng dịch vụ tại các cửa hàng*. Khi có một khách hàng sử dụng dịch vụ của cửa hàng, nhân viên thu ngân sẽ tạo phiếu khảo sát, Khi vừa tạo phiếu khảo sát, màn hình Ipad sẽ chuyển hướng đến trang có chứa phiếu khảo sát.
 ------------------
 **CHI TIẾT:**
 -   Ứng dụng được xây dựng bằng flutter sử dụng ngôn ngữ dart, có thể dể dàng build ra ứng dụng cung cấp cho thiết bị android và IOS. Dựa vào cơ chế nhận notification phía firebase nên ứng dụng đảm bảo đầy đủ tính toàn vẹn(mỗi device sẽ có 1 token device riêng).
@@ -22,21 +22,16 @@ MACOS(64-bit)
 FLUTTER: 2.8GB trống.
 -------------------
 **LIBRARY**
-- Flutter App (IOS)
-- Dart
-- Flutter_inappwebview:  Mô phỏng website. shared_preferences: Lưu trữ tên thiết bị vào đĩa cứng device.
-- Rich_alert: Tạo các dialog Alert. passcode_screen: tạo màn hình bảo mật khi vào cấu hình tên thiết bị.
-- Vibration: rung.
-- Wakelock: Giữ device luôn sang.
-- Screen: tùy chỉnh dộ sang
-- Firebase_analytics,Firebase_mesaging,Firebasecore,cloud_firestore: kết nối đến firebase để lưu trữ token, kiểm - tra tên device.
-- Điều hướng đến trang web theo đường dẫn vừa nhận
-- Nguồn tham khảo:
-- Inappwebview:
-- https://pub.dev/packages/flutter_inappwebview
-- shared_preferences:
-- https://pub.dev/packages/shared_preferences
-- passcode:screen: https://pub.dev/packages/passcode_screen
+- Flutter App (IOS) https://flutter.dev/docs/deployment/ios
+- Dart.
+- Flutter_inappwebview: web . https://pub.dev/packages/flutter_inappwebview
+- Shared_preferences: Lưu trữ tên thiết bị vào đĩa cứng device. https://pub.dev/packages/shared_preferences
+- Rich_alert: Tạo các dialog Alert. https://pub.dev/packages/rich_alert
+- Passcode_screen: tạo màn hình bảo mật khi vào cấu hình tên thiết bị. https://pub.dev/packages/passcode_screen
+- Vibration: rung. https://pub.dev/packages/vibration
+- Wakelock: Giữ device luôn sang. https://pub.dev/packages/wakelock
+- Screen: tùy chỉnh độ sáng https://pub.dev/packages/screen
+- Firebase_analytics,Firebase_mesaging,Firebasecore,cloud_firestore: kết nối đến firebase để lưu trữ token, kiểm tra tên device. https://pub.dev/packages/cloud_firestore
 
 ------------------------------------------
 
