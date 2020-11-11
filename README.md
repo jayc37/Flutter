@@ -39,7 +39,6 @@ DEMO
 # Màn hình khoá phần quản lý thiết bị.
 ![màn hình khoá](https://drive.google.com/uc?export=view&id=1cZU2HWMae6_4R_nBeWaFr24KtCBudhc8)
 
-
 # Màn hình quản lý thiết bị.
 ![màn hình quản lý thiết bị](https://drive.google.com/uc?export=view&id=1LPSIWpJZnt24MobfxIhgsnPnMGjJ99HD)
 
