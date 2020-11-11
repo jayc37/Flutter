@@ -41,8 +41,17 @@ FLUTTER: 2.8GB trống.
 ------------------------------------------
 
 DEMO
+# Màn hình khoá phần quản lý thiết bị.
 ![màn hình khoá](https://drive.google.com/uc?export=view&id=1cZU2HWMae6_4R_nBeWaFr24KtCBudhc8)
+
+
+# Màn hình quản lý thiết bị.
 ![màn hình quản lý thiết bị](https://drive.google.com/uc?export=view&id=1LPSIWpJZnt24MobfxIhgsnPnMGjJ99HD)
-![Rich alert](https://drive.google.com/file/d//view?usp=sharing)1GKGQnfmTSVMQINLq4u7_0NKmkCTex85m
-![Chuyển hướng đến web nhúng](https://drive.google.com/file/d/-EXNb7oijPN2TKn/view?usp=sharing)1H2bNI0vnen1OMGakM
+
+# Rich alert.
+![Rich alert](https://drive.google.com/uc?export=view&id=1GKGQnfmTSVMQINLq4u7_0NKmkCTex85m)
+
+
+# Màn hình web được nhúng vào ứng dụng.
+![Chuyển hướng đến web nhúng](https://drive.google.com/uc?export=view&id=1H2bNI0vnen1OMGakM)
 
